@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge//AzureCloud-3766AB?style=flat-square&logo=Microsoft Azure&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge//Terraform-3766AB?style=flat-square&logo=Microsoft Azure&logoColor=white"/></a>&nbsp 
 </p>
 
 <br>
