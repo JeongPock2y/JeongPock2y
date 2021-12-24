@@ -15,8 +15,10 @@
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge//AzureCloud-3766AB?style=flat-square&logo=Microsoft Azure&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge//Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/AzureCloud-3766AB?style=flat-square&logo=Microsoft Azure&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=Vagrant&logoColor=white"/></a>
 </p>
 
 <br>
